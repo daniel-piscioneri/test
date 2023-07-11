@@ -1,0 +1,38 @@
+h1{
+    color:red;
+}
+
+/* h2 {
+    color: brown;
+} */
+
+h3 {
+    color: crimson;
+}
+
+.para1{
+    color:green;
+    text-align: center;
+    font-size: x-large;
+}
+
+#heading2{
+    color:purple;
+}
+
+.row{
+    background-color: blue;
+    width: 25%;
+    height: 200px;
+    padding:20px;
+
+
+}
+
+.coloumn{
+    background-color: red;
+    width: 25%;
+    height:100px;
+    
+
+}
